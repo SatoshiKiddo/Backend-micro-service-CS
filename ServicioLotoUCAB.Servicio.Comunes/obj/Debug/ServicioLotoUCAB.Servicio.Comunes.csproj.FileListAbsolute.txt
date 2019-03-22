@@ -1,0 +1,17 @@
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\bin\Debug\ServicioLotoUCAB.Servicio.Comunes.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\bin\Debug\ServicioLotoUCAB.Servicio.Comunes.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.csprojAssemblyReference.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.csproj.CoreCompileInputs.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\bin\Debug\ServicioLotoUCAB.Servicio.Comunes.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\bin\Debug\ServicioLotoUCAB.Servicio.Comunes.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.csprojAssemblyReference.cache
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.csproj.CoreCompileInputs.cache
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\bin\Debug\ServicioLotoUCAB.Servicio.Comunes.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\bin\Debug\ServicioLotoUCAB.Servicio.Comunes.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.csprojResolveAssemblyReference.cache
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Comunes\obj\Debug\ServicioLotoUCAB.Servicio.Comunes.pdb
