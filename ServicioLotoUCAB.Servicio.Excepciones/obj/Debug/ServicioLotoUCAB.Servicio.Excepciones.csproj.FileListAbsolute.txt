@@ -1,0 +1,24 @@
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csprojAssemblyReference.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csproj.CoreCompileInputs.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csprojAssemblyReference.cache
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\MySql.Data.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\Google.Protobuf.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\MySql.Data.xml
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csproj.CopyComplete
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\MySql.Data.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\Google.Protobuf.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\bin\Debug\MySql.Data.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Excepciones\obj\Debug\ServicioLotoUCAB.Servicio.Excepciones.pdb
