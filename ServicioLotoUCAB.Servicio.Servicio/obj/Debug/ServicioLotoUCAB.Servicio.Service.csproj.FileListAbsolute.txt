@@ -1,0 +1,71 @@
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.dll.config
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Logica.Comandos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.AccesoDatos.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Logica.Comandos.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.AccesoDatos.pdb
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csprojAssemblyReference.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csproj.CoreCompileInputs.cache
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csproj.CopyComplete
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Servicio.dll
+D:\UCAB\Proyecto\IS_C#15524\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Servicio.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csprojAssemblyReference.cache
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csproj.CoreCompileInputs.cache
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.dll.config
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\log4net.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Comunes.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Excepciones.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Logica.Comandos.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\MySql.Data.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.AccesoDatos.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Protobuf.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Comunes.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Excepciones.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Logica.Comandos.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\log4net.xml
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\MySql.Data.xml
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.AccesoDatos.pdb
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csproj.CopyComplete
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Servicio.dll
+C:\Users\yeiss\Documents\UCAB\LotoUCAB\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Servicio.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Service.csprojResolveAssemblyReference.cache
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Servicio.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\obj\Debug\ServicioLotoUCAB.Servicio.Servicio.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.dll.config
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Servicio.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\log4net.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Comunes.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Excepciones.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Logica.Comandos.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\MySql.Data.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Auth.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Plus.v1.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Gmail.v1.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.AccesoDatos.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Core.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Protobuf.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Newtonsoft.Json.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Comunes.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Excepciones.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.Logica.Comandos.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\log4net.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\MySql.Data.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Auth.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Auth.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Plus.v1.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Plus.v1.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Gmail.v1.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Gmail.v1.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\ServicioLotoUCAB.Servicio.AccesoDatos.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Core.pdb
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Google.Apis.Core.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Newtonsoft.Json.xml
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Facebook.dll
+C:\Users\Revengekido\Documents\UCAB\5to Semestre\Ingeniería del Software\Github\ISUCAB_15524\src\ServicioLotoUCAB.Servicio.Servicio\ServicioLotoUCAB.Servicio.Servicio\bin\Facebook.xml
